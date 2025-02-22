@@ -1,0 +1,17 @@
+﻿  Building 'bootx64' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Assembling mouse.asm...
+  cs2.cpp
+  cs2features.cpp
+  csgo.cpp
+  csgofeatures.cpp
+C:\Users\sauce\source\repos\EC_v5\cs2\shared\cs2features.cpp(294,92): warning C4100: 'fov': unreferenced formal parameter
+  apex.cpp
+  apexfeatures.cpp
+  vm.cpp
+  gdi.cpp
+  kernel.cpp
+  main.cpp
+  utils.cpp
+  Generating Code...
+  bootx64.vcxproj -> C:\Users\sauce\source\repos\EC_v5\projects\EFI\bootx64\x64\Release\bootx64.efi
+  Driver is 'Universal'.
